@@ -16,7 +16,7 @@ output:
  
 ## Bio
 
-I am a postdoctral research fellow at Beth Israel Deaconess Medical Center and Harvard Medical School. My research focuses on network and pathway models for analysis of genomic data in complex diseases. Currently, I am working on models for understanding the role of non-coding RNAs in resilience to Alzheimer's disease (AD) and finding potent therapeutic interventions that can alter pathway activity of AD.
+I am a postdoctoral research fellow supervised by Winston Hide at the [Non-coding RNA Laboratory](https://www.hidelab.net/). My research focuses on network and pathway models for analysis of genomic data in complex diseases. Currently, I am working on models for understanding the role of non-coding RNAs in resilience to Alzheimer's disease (AD) and finding potent therapeutic interventions that can alter disease mechanisms in AD.
 
 ## Education and training
 **Beth Israel Deaconess Medical Center, Harvard Medical School** | Boston, MA
