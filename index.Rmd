@@ -1,0 +1,32 @@
+---
+title: "Pourya Naderi"
+image: "Pourya.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/pourya-naderi/"
+  - label: Twitter
+    url: "https://twitter.com/pouryany"
+  - label: GitHub
+    url: "https://github.com/pouryany"
+  - label: Email
+    url: "mailto:pnaderiy@bidmc.harvard.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I am a postdoctral research fellow at Beth Israel Deaconess Medical Center and Harvard Medical School. My research focuses on network and pathway models for analysis of genomic data in complex diseases. Currently, I am working on models for understanding the role of non-coding RNAs in resilience to Alzheimer's disease (AD) and finding potent therapeutic interventions that can alter pathway activity of AD.
+
+## Education and training
+**Beth Israel Deaconess Medical Center, Harvard Medical School** | Boston, MA
+
+Postdoctoral Research Fellow | 2019 - Now
+
+**University of North Carolina at Charlotte** | Charlotte, NC
+
+Ph.D. in Computer Science | 2019
+
+**Sharif University** | Tehran, Iran
+
+B.S. in Computer Science |  2013
