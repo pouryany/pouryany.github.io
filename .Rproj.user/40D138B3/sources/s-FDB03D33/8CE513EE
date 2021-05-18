@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2794369234",
+    "hash" : "0",
     "id" : "8CE513EE",
-    "lastKnownWriteTime" : 1621269205,
-    "last_content_update" : 1621269205390,
+    "lastKnownWriteTime" : 1621348615,
+    "last_content_update" : 1621348615251,
     "path" : "~/Desktop/Professional/new_website/pourya_postcard/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "18,122",
+        "cursorPosition" : "14,7",
         "scrollLine" : "15"
     },
     "read_only" : false,

@@ -10,6 +10,8 @@ links:
     url: "https://github.com/pouryany"
   - label: Email
     url: "mailto:pnaderiy@bidmc.harvard.com"
+  - label: Scholar
+    url: "https://scholar.google.com/citations?user=nYCCUzsAAAAJ"
 output:
   postcards::trestles
 ---
