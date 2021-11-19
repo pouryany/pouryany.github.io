@@ -9,7 +9,7 @@ links:
   - label: GitHub
     url: "https://github.com/pouryany"
   - label: Email
-    url: "mailto:pnaderiy@bidmc.harvard.com"
+    url: "mailto:pnaderiy@bidmc.harvard.edu"
   - label: Scholar
     url: "https://scholar.google.com/citations?user=nYCCUzsAAAAJ"
 output:
